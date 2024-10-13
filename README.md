@@ -7,7 +7,3 @@
 - Connect with me on: [LINKEDIN](https://www.linkedin.com/in/basil-okorie-8a5aa5136/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 
-<!---
-BasilOkorie/BasilOkorie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
